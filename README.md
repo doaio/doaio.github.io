@@ -3,4 +3,4 @@
 Just do your own thing and don't think about the future.
 
 
-[Home page](http://doaio.github.io/)
+[Home page](http://doaio.github.io/){:target="_blank"}
