@@ -638,7 +638,7 @@ a:hover {
 	margin-top: 2rem;
 	margin-bottom: 1rem;
 	font-weight: normal;
-	color: #159957
+	color: #8369ac
 }
 
 .main-content p {
@@ -803,4 +803,11 @@ a:hover {
 
 .site-footer-credits {
 	color: #819198
+}
+
+.article-list .page-link{
+	color: #000000;
+	text-decoration:underline;
+	font-size: 16px;
+	font-family: monospace;
 }
